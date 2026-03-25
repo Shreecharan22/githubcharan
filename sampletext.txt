@@ -1,0 +1,21 @@
+# Hello, I'm a Student Developer 
+
+This is my GitHub account created for learning and college activities.
+
+I am currently learning basic programming and working on simple projects to improve my skills.
+
+## Skills
+
+* C / C++ / Python (basic)
+* HTML & CSS (basic)
+
+## About
+
+I am interested in coding and technology.
+My goal is to become a good software developer in the future.
+
+## Projects
+
+I will upload my college projects here.
+
+## Thank You
